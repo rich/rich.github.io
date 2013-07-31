@@ -1,17 +1,15 @@
 ---
 layout: post
 title: "Beginning Again"
-description: ""
-category: one
-tags: [one]
 ---
 {% include JB/setup %}
 
-# I should probably say something
+I've worked at Tycoon/IFII for almost five years now, now I'm moving on. I've met some amazing people and learned an enormous amount across an array of disciplines, most of which were not technical. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For several years now, I've felt like I had nothing to say. I killed my blog and most of my presence around the web. I finally feel like that might be changing.
+
+I've been exposed to some interesting and, in some cases extremely challenging, personalities. I've had to get a more realistic and refined business sense. The exposure to some of the psychology and numbers games behind marketing are sure to serve me well in the future.
+
+All in all, I've ended up with a ton of invaluable experiences and maybe some good stories. I'm going to try and tell bits and pieces of a few of them here, mostly focusing on what I've taken out of it.
+
+Looking forward, I've got some new challenges ahead. Minimally, it looks like I'm going to be diving into the worlds of VOIP and Python, so I expect I'll have some thoughts on that as well.
